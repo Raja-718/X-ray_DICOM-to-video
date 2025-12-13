@@ -26,7 +26,7 @@ This project uses a focused **medical imaging + computer vision stack** to conve
 
 | Technology | Usage in Project |
 |---|---|
-| ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) | Core language for the entire processing pipeline |
+| ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) | Core language for the entire processing pipeline |
 | ![pydicom](https://img.shields.io/badge/pydicom-DICOM%20Processing-red) | Reading DICOM files & extracting medical pixel data |
 | ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy) | Pixel array manipulation & intensity normalization |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv) | Frame processing & video generation |
